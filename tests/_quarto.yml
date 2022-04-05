@@ -1,0 +1,7 @@
+filters:
+    - quarto
+    - myfilter.py
+
+project:
+    render:
+        - docs_test.ipynb
